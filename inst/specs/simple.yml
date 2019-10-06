@@ -1,0 +1,21 @@
+name: My Connection
+type: my_connection
+host: hosted_here
+connect_script: my_function_connect(path = "myfile.txt")
+disconnect_code:  function() rscontract_close("hosted_here", "my_connection")
+preview_code: function(table, view, ...) c(table, view)
+catalog_list:
+  catalogs:
+    name: my_catalog
+    type: catalog
+    schemas:
+      - name: my_schema
+        type: schema
+        tables:
+          - name: my_table
+            type: table
+            fields:
+              - name: field1
+                type: nbr
+              - name: field2
+                type: chr
