@@ -1,5 +1,6 @@
-1b213375f80151e7382e6e1e6f6e6ed2 *DESCRIPTION
+796d521a8bf8257639dc27ccbd054280 *DESCRIPTION
 283b8733235eae9c9f346a3ff8bdf190 *NAMESPACE
+3a08b7de86d65a5cdc0542b122b9df8e *NEWS.md
 6efb83c2a9e5233680e0fc83f00a95f5 *R/as_rscontract.R
 c81be3317ecfc75c194eed2ed58621ef *R/rscontract_close.R
 5a7af3e219e241e654d50ff43ec4bd45 *R/rscontract_ide.R
@@ -7,7 +8,7 @@ c949c50365ef53ad4e464504ac0d96e3 *R/rscontract_open.R
 5456b045ac8a481c746180984ad62e0f *R/rscontract_spec.R
 1dd332b140a9102a05cb041adb4345a0 *R/rscontract_update.R
 d80d9750633f859a4d0a5fa14051c54c *R/sample_catalog.R
-11695eb5187235420f7e1f26e1d936db *README.md
+074e439d10bc16f3bc13e452698ca585 *README.md
 a26cb31b15bb97a0e37c45d7c4906243 *inst/images/rstudio-icon.png
 06cb406b9d6afcae35c19abed30f062c *inst/specs/full.yml
 8b38984c936c2f5c6563482475e905a4 *inst/specs/simple.yml
@@ -23,9 +24,9 @@ a33c1f83ee3d6baefde971d8a8ab8484 *man/figures/yaml-1.png
 46a8f7b84adc76ffb23390d8d4d06bfe *man/figures/yaml-3.png
 d0a036b854fbab9f527365999bfe2447 *man/figures/yamltocontract.png
 850b615637df72a8c528f985ef8ba7c9 *man/rscontract_close.Rd
-af36835b49c7b0eedc116e641879a32d *man/rscontract_ide.Rd
+d9fb13b38979de5ccc4fcd16abdd7f74 *man/rscontract_ide.Rd
 dd28cd3c3c3490149d808e5eed5b15c7 *man/rscontract_open.Rd
-475c945c7c084fcd0e304d2911890c88 *man/rscontract_spec.Rd
+d14a47ec05edc566a26643a7a01e253a *man/rscontract_spec.Rd
 0d97da6fdcf1a275566e676d4412dbd5 *man/rscontract_update.Rd
 0b49dfd343ea4cdbc83f0157698c8e03 *man/sample_catalog.Rd
 ca9340482540473d2d70e0c825cf25d8 *tests/testthat.R
